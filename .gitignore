@@ -1,0 +1,26 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Notebook / IDE / editor
+.ipynb_checkpoints/
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local scratch / temporary exports (never committed)
+*.tmp
+*.bak
+*.log.tmp

@@ -1,0 +1,11 @@
+[2026-11-13 21:26:37,448][INFO] Epoch    0 | Total: 3.5135 | Data: 2.31985 | Cottrell: 0.06200 | Phase: 0.57360 | Deriv: 0.00005 | D: 1.00e-06 cm\xb2/s | Qc: 0.3000 mC
+[2026-11-13 21:26:40,052][INFO] Epoch  500 | Total: 0.6207 | Data: 0.01745 | Cottrell: 0.05681 | Phase: 0.03510 | Deriv: 0.00056 | D: 3.64e-06 cm\xb2/s | Qc: 0.6942 mC
+[2026-11-13 21:26:42,275][INFO] Epoch 1000 | Total: 0.4957 | Data: 0.01187 | Cottrell: 0.04599 | Phase: 0.02392 | Deriv: 0.00052 | D: 1.72e-05 cm\xb2/s | Qc: 0.7431 mC
+[2026-11-13 21:26:44,584][INFO] Epoch 1500 | Total: 0.3587 | Data: 0.01335 | Cottrell: 0.03243 | Phase: 0.02102 | Deriv: 0.00053 | D: 7.45e-05 cm\xb2/s | Qc: 0.7455 mC
+[2026-11-13 21:26:47,716][INFO] Epoch 2000 | Total: 0.3017 | Data: 0.01433 | Cottrell: 0.02682 | Phase: 0.01924 | Deriv: 0.00056 | D: 1.61e-04 cm\xb2/s | Qc: 0.7466 mC
+[2026-11-13 21:26:51,622][INFO] Epoch 2500 | Total: 0.2862 | Data: 0.01511 | Cottrell: 0.02532 | Phase: 0.01789 | Deriv: 0.00058 | D: 1.97e-04 cm\xb2/s | Qc: 0.7475 mC
+[2026-11-13 21:26:55,643][INFO] Epoch 3000 | Total: 0.2765 | Data: 0.01575 | Cottrell: 0.02440 | Phase: 0.01683 | Deriv: 0.00059 | D: 2.16e-04 cm\xb2/s | Qc: 0.7483 mC
+[2026-11-13 21:26:59,793][INFO] Epoch 3500 | Total: 0.2691 | Data: 0.01618 | Cottrell: 0.02368 | Phase: 0.01609 | Deriv: 0.00059 | D: 2.31e-04 cm\xb2/s | Qc: 0.7488 mC
+[2026-11-13 21:27:04,036][INFO] Epoch 4000 | Total: 0.2627 | Data: 0.01620 | Cottrell: 0.02307 | Phase: 0.01578 | Deriv: 0.00058 | D: 2.44e-04 cm\xb2/s | Qc: 0.7489 mC
+[2026-11-13 21:27:08,350][INFO] Epoch 4500 | Total: 0.2571 | Data: 0.01632 | Cottrell: 0.02254 | Phase: 0.01543 | Deriv: 0.00057 | D: 2.57e-04 cm\xb2/s | Qc: 0.7485 mC
+[2026-11-13 21:27:12,132][INFO] Epoch 5000 | Total: 0.2523 | Data: 0.01606 | Cottrell: 0.02205 | Phase: 0.01575 | Deriv: 0.00056 | D: 2.69e-04 cm\xb2/s | Qc: 0.7484 mC

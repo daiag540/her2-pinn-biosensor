@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite both the software archive and the associated manuscript."
+type: software
+title: "HER2 Dual-Aptamer Y-Shaped DNA Molecular-Pendulum Biosensor: PINN Code and Data"
+abstract: "Physics-informed neural network workflow, raw CHI604E electrochemical exports and processed training data used to optimise AuNP electrodeposition for a HER2 aptasensor."
+authors:
+  - family-names: Dai
+    given-names: Anguo
+  - family-names: Chen
+    given-names: Zhuofan
+  - family-names: Xiong
+    given-names: Xingliang
+version: 1.0.0
+date-released: 2026-11-14
+license: MIT
+repository-code: "https://github.com/daiag540/her2-pinn-biosensor"
+keywords:
+  - HER2
+  - aptasensor
+  - physics-informed neural network
+  - electrodeposition
+  - electrochemical impedance spectroscopy
+  - screen-printed carbon electrode
+preferred-citation:
+  type: article
+  title: "A Dual-Aptamer Y-Shaped DNA Molecular-Pendulum Biosensor for HER2 with Physics-Informed Optimization of AuNP Electrodeposition"
+  authors:
+    - family-names: Dai
+      given-names: Anguo
+    - family-names: Chen
+      given-names: Zhuofan
+    - family-names: Xiong
+      given-names: Xingliang
+  journal: "Sensors and Actuators B: Chemical"
+  year: 2026
+  status: in-preparation
+  note: "Add the article DOI and the Zenodo archive DOI here once available."

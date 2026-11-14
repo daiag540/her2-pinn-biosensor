@@ -1,0 +1,37 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The experimental data in this directory (data/raw/ and data/processed/) are
+licensed under the Creative Commons Attribution 4.0 International Public
+License.
+
+You are free to:
+
+  * Share  - copy and redistribute the material in any medium or format.
+  * Adapt  - remix, transform, and build upon the material for any purpose,
+             even commercially.
+
+Under the following terms:
+
+  * Attribution - You must give appropriate credit to the source article
+                  ("A Dual-Aptamer Y-Shaped DNA Molecular-Pendulum Biosensor
+                  for HER2 with Physics-Informed Optimization of AuNP
+                  Electrodeposition") and to this repository, provide a link
+                  to the licence, and indicate if changes were made.
+  * No additional restrictions - You may not apply legal terms or
+    technological measures that legally restrict others from doing anything
+    the licence permits.
+
+The licensor cannot revoke these freedoms as long as you follow the licence
+terms. The material is provided without warranty of any kind.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+Attribution suggestion:
+
+  Dai, A., Chen, Z. & Xiong, X. HER2 Dual-Aptamer Y-Shaped DNA
+  Molecular-Pendulum Biosensor: PINN Code and Data (v1.0.0).
+  https://github.com/daiag540/her2-pinn-biosensor . CC BY 4.0.
+
+Note: the MIT License in the repository root applies to the code and scripts,
+not to these data files.

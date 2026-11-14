@@ -1,0 +1,8 @@
+# Pinned core versions used to produce the archived results.
+# Tested with Python 3.12.7 (Anaconda, Windows/Linux/macOS).
+# Install: python -m pip install -r requirements.txt
+numpy==2.0.0
+pandas==2.3.3
+scipy==1.16.0
+matplotlib==3.10.8
+torch==2.5.1

@@ -1,0 +1,20 @@
+May 26, 2026   21:23:17
+Impedance - Potential
+File: run unsaved
+Data Source:  Experiment
+Instrument Model:  CHI604E
+Header: 
+Note: 
+
+Init E (V) = 0.548
+Final E (V) = 0.568
+Incr E (V) = 0.01
+Frequency (Hz) = 10
+Amplitude (V) = 0.005
+Quiet Time (sec) = 2
+
+Potential/V, Z'/ohm, Z"/ohm, Z/ohm, Phase/deg
+
+5.480e-1, 6.390e+2, -8.376e+2, 1.054e+3, -52.7
+5.580e-1, 6.743e+2, -9.002e+2, 1.125e+3, -53.2
+5.680e-1, 7.051e+2, -9.653e+2, 1.195e+3, -53.9

@@ -2,7 +2,7 @@
 
 **Corresponding manuscript:** *A Dual-Aptamer Y-Shaped DNA Molecular-Pendulum Biosensor for HER2 with Physics-Informed Optimization of AuNP Electrodeposition* (Anguo Dai, Zhuofan Chen, Xingliang Xiong; target journal: *Sensors and Actuators B: Chemical*).
 
-**Paper DOI:** *to be added after publication* · **Archive DOI (Zenodo):** *to be added after the v1.0.0 release is linked to Zenodo*
+**Archive DOI (Zenodo):** [10.5281/zenodo.24221894](https://doi.org/10.5281/zenodo.24221894) (concept DOI, cite this one; version v1.0.0: [10.5281/zenodo.24221895](https://doi.org/10.5281/zenodo.24221895)) · **Paper DOI:** *to be added after publication*
 
 This repository contains **only the physics-informed neural network (PINN) training code, its input data and its outputs**. It does not contain manuscript figures, Illustrator/JSX drawing scripts, Word documents or image assets. The PINN is an **optimisation tool** constrained by modified Cottrell transport and impedance evolution; every modelling claim in the manuscript is backed by an electrochemical measurement. It is not a purely theoretical study.
 
@@ -142,7 +142,7 @@ All 30 files are unmodified exports from a CHI604E potentiostat. Headers were ch
 
 ## 4. Citation
 
-GitHub shows a **Cite this repository** button backed by `CITATION.cff`. BibTeX:
+GitHub shows a **Cite this repository** button backed by `CITATION.cff`. The software archive is permanently identified by the Zenodo concept DOI `10.5281/zenodo.24221894` (version v1.0.0: `10.5281/zenodo.24221895`). BibTeX:
 
 ```bibtex
 @misc{dai2026her2pinn,
@@ -150,7 +150,8 @@ GitHub shows a **Cite this repository** button backed by `CITATION.cff`. BibTeX:
   title        = {HER2 Dual-Aptamer Y-Shaped DNA Molecular-Pendulum Biosensor: PINN Code and Data},
   year         = {2026},
   howpublished = {\url{https://github.com/daiag540/her2-pinn-biosensor}},
-  note         = {Version 1.0.0; Zenodo DOI to be added after archive release}
+  doi          = {10.5281/zenodo.24221894},
+  note         = {Version 1.0.0; Zenodo concept DOI 10.5281/zenodo.24221894 (v1.0.0: 10.5281/zenodo.24221895)}
 }
 
 @article{dai2026her2sensor,
@@ -176,7 +177,7 @@ GitHub shows a **Cite this repository** button backed by `CITATION.cff`. BibTeX:
 
 - **Size:** 48 files, ≈1.97 MB in total, largest single file ≈0.96 MB — well below GitHub's 100 MB per-file hard limit and the recommended 1 GB repository size; no Git LFS or external hosting needed.
 - **De-identification:** raw headers contain no user/operator/institution identifiers; scripts contain no API keys, mailbox passwords, intranet addresses or hard-coded absolute paths. Commercial, de-identified serum was used in vitro only; no human-subject identifiers are present.
-- **Permanent DOI:** a `v1.0.0` GitHub release freezes the archive. Link the repository from a Zenodo account (Zenodo → GitHub → enable this repository) to mint a DOI, then paste it into the manuscript's *Data Availability* statement and the placeholder at the top of this README. A DOI is preferable to a bare GitHub URL because repositories can be edited or deleted.
+- **Permanent DOI:** the `v1.0.0` GitHub release was archived by Zenodo as [record 24221895](https://zenodo.org/records/24221895), with concept DOI `10.5281/zenodo.24221894` and version DOI `10.5281/zenodo.24221895`. The manuscript's *Data Availability* statement and `CITATION.cff` cite the concept DOI. A DOI is preferable to a bare GitHub URL because repositories can be edited or deleted; the release tag freezes the archived snapshot.
 - **Peer-review compatibility:** *Sensors and Actuators B: Chemical* uses single-blind review, so a normal attributed repository is acceptable. If the manuscript is later submitted to a double-blind journal, serve an **Anonymous GitHub** mirror during review and ensure code comments and Git commit history carry no author identity.
 
 ---

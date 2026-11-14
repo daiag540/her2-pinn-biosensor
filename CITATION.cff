@@ -14,6 +14,7 @@ version: 1.0.0
 date-released: 2026-11-14
 license: MIT
 repository-code: "https://github.com/daiag540/her2-pinn-biosensor"
+doi: "10.5281/zenodo.24221894"
 keywords:
   - HER2
   - aptasensor
@@ -34,4 +35,4 @@ preferred-citation:
   journal: "Sensors and Actuators B: Chemical"
   year: 2026
   status: in-preparation
-  note: "Add the article DOI and the Zenodo archive DOI here once available."
+  note: "Manuscript in preparation for Sensors and Actuators B: Chemical; no article DOI yet. The software archive is permanently identified by the Zenodo concept DOI 10.5281/zenodo.24221894 (version v1.0.0: 10.5281/zenodo.24221895)."
